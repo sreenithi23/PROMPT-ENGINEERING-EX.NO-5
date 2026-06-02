@@ -1,10 +1,9 @@
 
-
 # EXP 5: COMPARATIVE ANALYSIS OF DIFFERENT TYPES OF PROMPTING PATTERNS AND EXPLAIN WITH VARIOUS TEST SCENARIOS
-
+# REGISTER NUMBER : 21223220109
 # Aim: To test and compare how different pattern models respond to various prompts (broad or unstructured) versus basic prompts (clearer and more refined) across multiple scenarios.  Analyze the quality, accuracy, and depth of the generated responses 
 
-### AI Tools Required: 
+### AI Tools Required: ChatGPT
 
 # Explanation: 
 Define the Two Prompt Types:
@@ -33,6 +32,7 @@ Analysis of how prompt clarity impacts the quality, accuracy, and depth of ChatG
 Summary of findings with insights on how to structure prompts for optimal results when using ChatGPT.
 
 
-# OUTPUT
+# OUTPUT: 
+[EXP 5: COMPARATIVE ANALYSIS OF DIFFERENT TYPES OF PROMPTING PATTERNS AND EXPLAIN WITH VARIOUS TEST SCENARIOS-OUTPUT](25008757EX5.pdf)
 
 # RESULT: The prompt for the above said problem executed successfully
